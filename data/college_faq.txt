@@ -1,0 +1,4 @@
+The college library opens at 9 AM and closes at 8 PM.
+The college office works from Monday to Friday.
+Attendance above 75% is mandatory.
+Exams are conducted semester-wise.
